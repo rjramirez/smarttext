@@ -1,0 +1,4 @@
+smarttext
+=========
+
+rootsmart
